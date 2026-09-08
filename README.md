@@ -162,9 +162,9 @@ I also acknowledge the open-source tools and libraries used throughout these pro
 
 Connect With Me
 
-GitHub: "Your GitHub Profile" (YOUR_GITHUB_LINK)
+GitHub: https://github.com/Rn-Asa
 
-LinkedIn: "Your LinkedIn Profile" (YOUR_LINKEDIN_LINK)
+LinkedIn: https://www.linkedin.com/in/chidinma-elibe-591126297
 
  Thank you for visiting my repository! Feel free to explore the projects and notebooks.
 
